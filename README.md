@@ -5,20 +5,13 @@
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** gisedtvanegas2008@gmail.com
+- **LinkedIn:** www.linkedin.com/in/paula-vanegas-b3b129318
 
-## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2022 - 2024)_
+- Mecanizado en torno y fresadora convencional.
 
 ## 💡 Habilidades
 - **Habilidad 1**
